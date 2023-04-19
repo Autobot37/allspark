@@ -1,2 +1,0 @@
-# AllSpark
-Personal Website
